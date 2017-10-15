@@ -2,6 +2,8 @@
 	"patch.js": 2056392651,
 	"th11/background/stage01/stage01a.png": 60659947,
 	"th11/background/stage01/stage01b.png": 785473982,
+	"th11/card/cdbg01a.png": 2970789869,
+	"th11/card/cdbg01b.png": 3390744468,
 	"th11/enemy/enemy.png": 3309331552,
 	"th11/face/enemy1/ename01.png": 2469685979,
 	"th11/face/enemy1/face01ct.png": 2628363972,
