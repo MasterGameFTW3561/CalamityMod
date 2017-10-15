@@ -6,7 +6,7 @@
 	"th11/card/cdbg01b.png": 3390744468,
 	"th11/enemy/enemy.png": 3309331552,
 	"th11/face/enemy1/ename01.png": 2469685979,
-	"th11/face/enemy1/face01ct.png": 2628363972,
+	"th11/face/enemy1/face01ct.png": 189292220,
 	"th11/face/enemy1/face01dp.png": 365244305,
 	"th11/face/enemy1/face01no.png": 619522547,
 	"th11/face/enemy1/face01sp.png": 3237156295,
