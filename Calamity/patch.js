@@ -4,7 +4,7 @@
 	],
 	"id": "Calamity",
 	"servers": [
-		"https://raw.githubusercontent.com/MasterGameFTW3561/Th16ThonksMod/master/Calamity/"
+		"https://raw.githubusercontent.com/MasterGameFTW3561/CalamityMod/master/Calamity/"
 	],
 	"title": "Calamity mod by MasterGameFTW3561"
 }

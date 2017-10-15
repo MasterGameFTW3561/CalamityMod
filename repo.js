@@ -5,7 +5,7 @@
 		"Calamity": "Calamity mod by MasterGameFTW3561"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/MasterGameFTW3561/Th16ThonksMod/master"
+		"https://raw.githubusercontent.com/MasterGameFTW3561/CalamityMod/master"
 	],
 	"title": "DM DOKURO the Composer and Calamity Devs Team"
 }
